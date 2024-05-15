@@ -13,128 +13,113 @@
 							<name>ACBE-E-102A-BC-17653001</name>
 					<rtept lat="48.846540" lon="2.510520">
 						<ele>40</ele>
-						<time>2024-05-15T20:05:37Z</time>
+						<time>2024-05-15T20:42:53Z</time>
 						<name>RPT1</name>
 					</rtept>
 					<rtept lat="48.852540" lon="2.512300">
 						<ele>39</ele>
-						<time>2024-05-15T20:07:26Z</time>
+						<time>2024-05-15T20:44:42Z</time>
 						<name>RPT2</name>
 					</rtept>
 					<rtept lat="48.857790" lon="2.595820">
 						<ele>49</ele>
-						<time>2024-05-15T20:23:48Z</time>
+						<time>2024-05-15T21:01:04Z</time>
 						<name>RPT3</name>
 					</rtept>
 					<rtept lat="48.827590" lon="2.598490">
 						<ele>102</ele>
-						<time>2024-05-15T20:32:46Z</time>
+						<time>2024-05-15T21:10:02Z</time>
 						<name>RPT4</name>
 					</rtept>
 					<rtept lat="48.816170" lon="2.627080">
 						<ele>106</ele>
-						<time>2024-05-15T20:39:18Z</time>
+						<time>2024-05-15T21:16:34Z</time>
 						<name>RPT5</name>
 					</rtept>
-					<rtept lat="48.828350" lon="2.643040">
-						<ele>102</ele>
-						<time>2024-05-15T20:44:04Z</time>
+					<rtept lat="48.825120" lon="2.642240">
+						<ele>105</ele>
+						<time>2024-05-15T21:20:33Z</time>
 						<name>RPT6</name>
 					</rtept>
 					<rtept lat="48.835200" lon="2.660540">
 						<ele>102</ele>
-						<time>2024-05-15T20:48:03Z</time>
+						<time>2024-05-15T21:25:12Z</time>
 						<name>RPT7</name>
 					</rtept>
 					<rtept lat="48.839620" lon="2.658720">
 						<ele>99</ele>
-						<time>2024-05-15T20:49:24Z</time>
+						<time>2024-05-15T21:26:34Z</time>
 						<name>RPT8</name>
 					</rtept>
 					<rtept lat="48.840830" lon="2.666780">
 						<ele>100</ele>
-						<time>2024-05-15T20:51:01Z</time>
+						<time>2024-05-15T21:28:10Z</time>
 						<name>RPT9</name>
 					</rtept>
 					<rtept lat="48.849880" lon="2.733990">
 						<ele>105</ele>
-						<time>2024-05-15T21:04:24Z</time>
+						<time>2024-05-15T21:41:34Z</time>
 						<name>RPT10</name>
 					</rtept>
 					<rtept lat="48.814300" lon="2.829790">
 						<ele>126</ele>
-						<time>2024-05-15T21:25:53Z</time>
+						<time>2024-05-15T22:03:02Z</time>
 						<name>RPT11</name>
 					</rtept>
 					<rtept lat="48.822440" lon="2.876460">
 						<ele>137</ele>
-						<time>2024-05-15T21:35:18Z</time>
+						<time>2024-05-15T22:12:28Z</time>
 						<name>RPT12</name>
 					</rtept>
 					<rtept lat="48.846890" lon="2.915730">
 						<ele>63</ele>
-						<time>2024-05-15T21:45:51Z</time>
+						<time>2024-05-15T22:23:01Z</time>
 						<name>RPT13</name>
 					</rtept>
 					<rtept lat="48.851120" lon="2.824710">
 						<ele>135</ele>
-						<time>2024-05-15T22:03:40Z</time>
+						<time>2024-05-15T22:40:49Z</time>
 						<name>RPT14</name>
 					</rtept>
 					<rtept lat="48.837920" lon="2.753450">
 						<ele>129</ele>
-						<time>2024-05-15T22:18:07Z</time>
+						<time>2024-05-15T22:55:16Z</time>
 						<name>RPT15</name>
 					</rtept>
-					<rtept lat="48.860530" lon="2.689960">
-						<ele>54</ele>
-						<time>2024-05-15T22:32:12Z</time>
+					<rtept lat="48.863030" lon="2.675110">
+						<ele>44</ele>
+						<time>2024-05-15T23:12:16Z</time>
 						<name>RPT16</name>
 					</rtept>
-					<rtept lat="48.863070" lon="2.675030">
-						<ele>44</ele>
-						<time>2024-05-15T22:35:12Z</time>
+					<rtept lat="48.859500" lon="2.651780">
+						<ele>45</ele>
+						<time>2024-05-15T23:16:56Z</time>
 						<name>RPT17</name>
 					</rtept>
-					<rtept lat="48.861290" lon="2.673270">
-						<ele>44</ele>
-						<time>2024-05-15T22:35:50Z</time>
-						<name>RPT18</name>
-					</rtept>
-					<rtept lat="48.859370" lon="2.646700">
+					<rtept lat="48.865910" lon="2.621520">
 						<ele>40</ele>
-						<time>2024-05-15T22:41:03Z</time>
-						<name>RPT19</name>
-					</rtept>
-					<rtept lat="48.864950" lon="2.642510">
-						<ele>41</ele>
-						<time>2024-05-15T22:42:54Z</time>
-						<name>RPT20</name>
-					</rtept>
-					<rtept lat="48.866630" lon="2.622340">
-						<ele>41</ele>
-						<time>2024-05-15T22:46:52Z</time>
-						<name>RPT21</name>
+						<time>2024-05-15T23:23:08Z</time>
+						<name>RPT18</name>
 					</rtept>
 					<rtept lat="48.870070" lon="2.595750">
 						<ele>39</ele>
-						<time>2024-05-15T22:52:09Z</time>
-						<name>RPT22</name>
+						<time>2024-05-15T23:28:19Z</time>
+						<name>RPT19</name>
 					</rtept>
 					<rtept lat="48.867770" lon="2.598660">
 						<ele>41</ele>
-						<time>2024-05-15T22:53:02Z</time>
-						<name>RPT23</name>
+						<time>2024-05-15T23:29:12Z</time>
+						<name>RPT20</name>
 					</rtept>
 					<rtept lat="48.868570" lon="2.573220">
 						<ele>41</ele>
-						<time>2024-05-15T22:58:00Z</time>
-						<name>RPT24</name>
+						<time>2024-05-15T23:34:10Z</time>
+						<name>RPT21</name>
 					</rtept>
 					<rtept lat="48.846540" lon="2.510520">
 						<ele>40</ele>
-						<time>2024-05-15T23:11:52Z</time>
-						<name>RPT25</name>
+						<time>2024-05-15T23:48:02Z</time>
+						<name>RPT22</name>
 					</rtept>
 				</rte>
 			</gpx>
