@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<gpx version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xmlns="http://www.topografix.com/GPX/1/1" 
+    xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+    creator="Openrunner - https://www.openrunner.com" >	<rte>
+							<name>ACBE-E-104F-2258825</name>
+					<rtept lat="48.846540" lon="2.510520">
+						<ele>40</ele>
+						<time>2024-05-15T19:58:47Z</time>
+						<name>RPT1</name>
+					</rtept>
+					<rtept lat="48.852190" lon="2.512350">
+						<ele>39</ele>
+						<time>2024-05-15T20:00:30Z</time>
+						<name>RPT2</name>
+					</rtept>
+					<rtept lat="48.870030" lon="2.582140">
+						<ele>39</ele>
+						<time>2024-05-15T20:15:06Z</time>
+						<name>RPT3</name>
+					</rtept>
+					<rtept lat="48.870160" lon="2.586950">
+						<ele>40</ele>
+						<time>2024-05-15T20:16:03Z</time>
+						<name>RPT4</name>
+					</rtept>
+					<rtept lat="48.872700" lon="2.596480">
+						<ele>38</ele>
+						<time>2024-05-15T20:18:03Z</time>
+						<name>RPT5</name>
+					</rtept>
+					<rtept lat="48.875210" lon="2.596220">
+						<ele>40</ele>
+						<time>2024-05-15T20:18:48Z</time>
+						<name>RPT6</name>
+					</rtept>
+					<rtept lat="48.918810" lon="2.651270">
+						<ele>118</ele>
+						<time>2024-05-15T20:35:36Z</time>
+						<name>RPT7</name>
+					</rtept>
+					<rtept lat="48.946580" lon="2.690320">
+						<ele>61</ele>
+						<time>2024-05-15T20:46:49Z</time>
+						<name>RPT8</name>
+					</rtept>
+					<rtept lat="48.966840" lon="2.698880">
+						<ele>75</ele>
+						<time>2024-05-15T20:53:03Z</time>
+						<name>RPT9</name>
+					</rtept>
+					<rtept lat="48.970540" lon="2.760920">
+						<ele>104</ele>
+						<time>2024-05-15T21:05:10Z</time>
+						<name>RPT10</name>
+					</rtept>
+					<rtept lat="48.973430" lon="2.837390">
+						<ele>98</ele>
+						<time>2024-05-15T21:20:05Z</time>
+						<name>RPT11</name>
+					</rtept>
+					<rtept lat="48.997030" lon="2.893350">
+						<ele>92</ele>
+						<time>2024-05-15T21:33:02Z</time>
+						<name>RPT12</name>
+					</rtept>
+					<rtept lat="49.001420" lon="2.928980">
+						<ele>52</ele>
+						<time>2024-05-15T21:40:05Z</time>
+						<name>RPT13</name>
+					</rtept>
+					<rtept lat="48.937720" lon="2.964110">
+						<ele>137</ele>
+						<time>2024-05-15T22:00:10Z</time>
+						<name>RPT14</name>
+					</rtept>
+					<rtept lat="48.895560" lon="2.952270">
+						<ele>160</ele>
+						<time>2024-05-15T22:12:53Z</time>
+						<name>RPT15</name>
+					</rtept>
+					<rtept lat="48.899410" lon="2.872920">
+						<ele>127</ele>
+						<time>2024-05-15T22:28:24Z</time>
+						<name>RPT16</name>
+					</rtept>
+					<rtept lat="48.906670" lon="2.778460">
+						<ele>46</ele>
+						<time>2024-05-15T22:46:56Z</time>
+						<name>RPT17</name>
+					</rtept>
+					<rtept lat="48.923580" lon="2.712950">
+						<ele>67</ele>
+						<time>2024-05-15T23:00:39Z</time>
+						<name>RPT18</name>
+					</rtept>
+					<rtept lat="48.910470" lon="2.657330">
+						<ele>81</ele>
+						<time>2024-05-15T23:12:10Z</time>
+						<name>RPT19</name>
+					</rtept>
+					<rtept lat="48.886000" lon="2.660540">
+						<ele>53</ele>
+						<time>2024-05-15T23:19:27Z</time>
+						<name>RPT20</name>
+					</rtept>
+					<rtept lat="48.872590" lon="2.644470">
+						<ele>42</ele>
+						<time>2024-05-15T23:24:31Z</time>
+						<name>RPT21</name>
+					</rtept>
+					<rtept lat="48.871570" lon="2.595200">
+						<ele>39</ele>
+						<time>2024-05-15T23:34:08Z</time>
+						<name>RPT22</name>
+					</rtept>
+					<rtept lat="48.846540" lon="2.510520">
+						<ele>40</ele>
+						<time>2024-05-15T23:52:14Z</time>
+						<name>RPT23</name>
+					</rtept>
+				</rte>
+			</gpx>
